@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Debabrata3112/DAS/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Debabrata3112/DAS/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Debabrata3112/DAS/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
