@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
