@@ -4,14 +4,15 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
-                if (balance > 0) {
+                balance++;
+                if (balance != 1) {
                     sb.append("(");
                 }
-                balance++;
+                
             }
             else if (s.charAt(i) == ')') {
                 balance--;
-                if (balance > 0) {
+                if (balance != 0) {
                     sb.append(")");
                 }
             }
