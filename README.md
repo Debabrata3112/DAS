@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Debabrata3112/DAS/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
@@ -37,10 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
