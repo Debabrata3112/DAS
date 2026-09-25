@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Debabrata3112/DAS/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Debabrata3112/DAS/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Debabrata3112/DAS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Debabrata3112/DAS/tree/main/0128-longest-consecutive-sequence/) | Medium |
