@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Debabrata3112/DAS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debabrata3112/DAS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Debabrata3112/DAS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Debabrata3112/DAS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Debabrata3112/DAS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -83,10 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -111,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Debabrata3112/DAS/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
