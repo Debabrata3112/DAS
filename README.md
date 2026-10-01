@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Debabrata3112/DAS/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Debabrata3112/DAS/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Debabrata3112/DAS/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Debabrata3112/DAS/tree/main/0075-sort-colors/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debabrata3112/DAS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
