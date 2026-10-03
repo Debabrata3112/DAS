@@ -1,0 +1,24 @@
+class Solution {
+    public int findMin(int[] nums) {
+        int left=0;
+        int right=nums.length-1;
+        int minValue=Integer.MAX_VALUE;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[left]<=nums[right]){
+                minValue=Math.min(minValue, nums[left]);
+                break;
+            }
+            else{
+                if(nums[mid]>nums[right]){
+                    left=mid+1;
+                }
+                else{
+                    right =mid ;
+                }
+            }
+        }
+
+        return minValue;
+    }
+}
