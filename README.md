@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Debabrata3112/DAS/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Debabrata3112/DAS/tree/main/0048-rotate-image/) | Medium |
 ## Union-Find
