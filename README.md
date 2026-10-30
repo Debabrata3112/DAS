@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Debabrata3112/DAS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Debabrata3112/DAS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Debabrata3112/DAS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Debabrata3112/DAS/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Debabrata3112/DAS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debabrata3112/DAS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Debabrata3112/DAS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
