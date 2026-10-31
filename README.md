@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Debabrata3112/DAS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Debabrata3112/DAS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Debabrata3112/DAS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Debabrata3112/DAS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Debabrata3112/DAS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
