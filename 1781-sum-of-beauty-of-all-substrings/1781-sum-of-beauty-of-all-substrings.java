@@ -1,35 +1,24 @@
 class Solution {
     public int beautySum(String s) {
-        int n = s.length();
-        int totalBeauty = 0;
+        int totalBeauty=0;
+        for(int i=0;i<s.length();i++){
+            int [] fre=new int[26];
+            for(int j=i;j<s.length();j++){
+                fre[s.charAt(j)-'a']++;
 
-        for (int i = 0; i < n; i++) {
+                int maxfre=0;
+                int minfre=Integer.MAX_VALUE;
 
-            int[] freq = new int[26];
-            int maxFreq = 0;
-
-            for (int j = i; j < n; j++) {
-
-                int index = s.charAt(j) - 'a';
-
-                freq[index]++;
-
-                // Maximum frequency never decreases
-                maxFreq = Math.max(maxFreq, freq[index]);
-
-                int minFreq = Integer.MAX_VALUE;
-
-                // Find minimum frequency
-                for (int k = 0; k < 26; k++) {
-                    if (freq[k] > 0 && freq[k] < minFreq) {
-                        minFreq = freq[k];
+                for(int k=0;k<26;k++){
+                    if(fre[k]>0){
+                        maxfre=Math.max(maxfre,fre[k]);
+                        minfre=Math.min(minfre,fre[k]);
                     }
                 }
 
-                totalBeauty += maxFreq - minFreq;
+                totalBeauty=totalBeauty+(maxfre-minfre);
             }
         }
-
         return totalBeauty;
     }
 } 
