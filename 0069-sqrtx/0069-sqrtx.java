@@ -1,5 +1,8 @@
 class Solution {
     public int mySqrt(int x) {
+        if (x<2){
+            return x;
+        }
         int left=0;
         int right=x;
         int ans=0;
