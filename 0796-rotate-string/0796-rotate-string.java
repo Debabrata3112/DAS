@@ -3,9 +3,11 @@ class Solution {
         if(s.length() != goal.length()){
             return false;
         }
-        String combine=s+s;
-        if(combine.contains(goal)){
-            return true;
+        for(int i=0;i<s.length();i++){
+            String rotate=s.substring(i) + s.substring(0,i);
+            if(rotate.equals(goal)){
+                return true;
+            }
         }
         return false;
     }
