@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Debabrata3112/DAS/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Debabrata3112/DAS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Debabrata3112/DAS/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Debabrata3112/DAS/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Debabrata3112/DAS/tree/main/0796-rotate-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
