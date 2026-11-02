@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Debabrata3112/DAS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Debabrata3112/DAS/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Debabrata3112/DAS/tree/main/0075-sort-colors/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debabrata3112/DAS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Debabrata3112/DAS/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Debabrata3112/DAS/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
