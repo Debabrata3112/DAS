@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Debabrata3112/DAS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Debabrata3112/DAS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Debabrata3112/DAS/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Debabrata3112/DAS/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Debabrata3112/DAS/tree/main/0367-valid-perfect-square/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
