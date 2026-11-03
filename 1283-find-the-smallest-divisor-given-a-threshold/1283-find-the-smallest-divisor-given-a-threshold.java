@@ -11,6 +11,9 @@ class Solution {
                 // double ceilVal=Math.ceil((double)num/mid);
                 // sum=sum+(int)ceilVal;
                 sum+=(num-1)/mid+1;
+                if (sum > threshold) {
+                    break;
+                }
             }
             if (sum <= threshold) {
                 ans=mid;
