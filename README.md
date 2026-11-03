@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Debabrata3112/DAS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Debabrata3112/DAS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debabrata3112/DAS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Debabrata3112/DAS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Debabrata3112/DAS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
