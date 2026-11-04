@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Debabrata3112/DAS/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Debabrata3112/DAS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Debabrata3112/DAS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Debabrata3112/DAS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Debabrata3112/DAS/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Debabrata3112/DAS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Debabrata3112/DAS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Debabrata3112/DAS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Two Pointers
