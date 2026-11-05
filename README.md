@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Debabrata3112/DAS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Debabrata3112/DAS/tree/main/0229-majority-element-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Debabrata3112/DAS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Debabrata3112/DAS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Debabrata3112/DAS/tree/main/0367-valid-perfect-square/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Debabrata3112/DAS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Debabrata3112/DAS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Debabrata3112/DAS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Debabrata3112/DAS/tree/main/0704-binary-search/) | Easy |
@@ -140,10 +142,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Debabrata3112/DAS/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Debabrata3112/DAS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debabrata3112/DAS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Debabrata3112/DAS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Debabrata3112/DAS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Debabrata3112/DAS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Debabrata3112/DAS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -187,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Debabrata3112/DAS/tree/main/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Debabrata3112/DAS/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
