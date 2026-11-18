@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/Debabrata3112/DAS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debabrata3112/DAS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2951-find-the-peaks](https://github.com/Debabrata3112/DAS/tree/main/2951-find-the-peaks/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Debabrata3112/DAS/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2951-find-the-peaks](https://github.com/Debabrata3112/DAS/tree/main/2951-find-the-peaks/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
